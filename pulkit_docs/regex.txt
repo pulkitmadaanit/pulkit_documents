@@ -1,0 +1,64 @@
+day1 (https://drive.google.com/file/d/1YGm9q-FhoL-ZcSSU_fYAkz5mLKisuKvz/view) (python started)
+
+day2 (https://drive.google.com/file/d/1fPdBTU7JT6cWQaijEXwjdzSreRtgpHeE/view) (function, decorators)
+
+day3 (https://drive.google.com/file/d/1wflnQbdW7zCNXvCHljxjNQ0zGviFdciZ/view) (oops concept)
+
+day4 (https://drive.google.com/file/d/1u1_D_P4Sbgjgl8pFvbsMF1JSjMfQeh44/view) (os, try,except, socket programming)
+
+day5 (https://drive.google.com/file/d/1KkOb6BjNPHlWJI4Wg5t-apuN8wgj6HPF/view) (database crud operation)
+
+day6 (https://drive.google.com/file/d/1PFDqfxv3hRagpzdD6xcrE7Vo0-uDjrBR/view) (regular expression)
+
+day7 (https://drive.google.com/file/d/1vgvSTOu-tdEPAqLQ7Bfr5q-YOXOivc7p/view) (html)
+
+day8 (https://drive.google.com/file/d/1_4g5X55KcykIXShU1rWHmbeLE2t5x2Lp/view) (css)
+
+day9 (https://drive.google.com/file/d/1ZkpEA67XMQjL6F-EHXlSewtdikylpjta/view) (bootstrap)
+
+day10 (https://drive.google.com/file/d/1eIDZcsOAylFusUzu8nWwRbmTOmoRhcmn/view) javascript and boot
+
+day11 (https://drive.google.com/file/d/1U1DdjUFRvFWgVxLlF4tbtkScSS42XZIX/view) (django starting)
+
+day12 (https://drive.google.com/file/d/1mjaDb-TX-zj5MKzWVMSq5zheHmTkh-uS/view) (rendering html)
+
+day13 (https://drive.google.com/file/d/1Xw00xjYidwpFMa8gO8vbfBgs82KpRjM-/view)
+
+day14 (https://drive.google.com/file/d/1GB52hkYVJ80JK04j-VpZYGtOdbUFI1eN/view) (adding javascript)
+
+day15 (https://drive.google.com/file/d/1gpPk9CVCqKn3adC7hHwNNtUW1Desc-SK/view) (email handling)
+
+day16 (https://drive.google.com/file/d/1E0RUgL57jWAEqe2TA8MjTJ8hT74okP1J/view) (models)
+
+day17 (https://drive.google.com/file/d/1jJ9LAedbMrKmMsYyOeYF63WFOd6ns8ey/view) 
+
+day18 (https://drive.google.com/file/d/1o2YJrp8zcsli0aTxiQR_ikwFN6Db2wSj/view) (forms)
+
+day19 (https://drive.google.com/file/d/10IvHLmpbSgEaUHeAhTEWJ_RN64oaIOmL/view) (matplotlib chart)
+
+day20 (https://drive.google.com/file/d/1unRAf706YxoWH4azXc8b01fVW3yLuX71/view)  (Rest api)
+
+day21
+
+day22
+
+day23
+
+day24
+
+day25
+
+
+
+Aws deployment:  (https://classroom.google.com/u/1/c/MTUxNTE2OTQ1Mzkx/p/MjMxNzUwNTE5Njcx/details) 
+
+payment settings:  (https://classroom.google.com/u/1/c/MTUxNTE2OTQ1Mzkx/p/MTY2ODE1NjMxMzc1/details)
+virtual env:       (https://classroom.google.com/u/1/c/MTUxNTE2OTQ1Mzkx/p/MjA1NDIxMDIwOTE1/details)
+
+Data Connection Program and to do exercise : (https://classroom.google.com/u/1/c/MTUxNTE2OTQ1Mzkx/m/MjAzNjM1NDk0NzE5/details)
+
+mysql installation docs: (https://classroom.google.com/u/1/c/MTUxNTE2OTQ1Mzkx/m/MjAzMTU1MDM2MjQ2/details)
+
+mail sending from python: (https://classroom.google.com/u/1/c/MTUxNTE2OTQ1Mzkx/m/MTkyNjU0NTkyODgx/details)
+
+socket programming files: (https://classroom.google.com/u/1/c/MTUxNTE2OTQ1Mzkx/m/MTkyNjU0NTkyODQ1/details)

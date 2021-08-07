@@ -1,0 +1,97 @@
+ git status ("check krata ha ki git initialized hai ki nahi")
+
+git init (initialized ho gaya)
+
+
+git config --global user.name "pulkitmadaan" 
+
+git config user.name "pulkitmadaan"                                  locally
+
+git congig --global user.email "pulkitmadaan1997@gmail.com"
+
+
+git status ("check krata ha ki git initialized hai ki nahi")
+
+git init (initialized ho gaya)
+
+
+git config --list
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+git status ("check krata ha ki git initialized hai ki nahi")
+
+git init (initialized ho gaya)
+
+
+git add --a                "sari file staging area mein aa jati h"
+git add .                      " same kam karta ha"        
+
+git commit -m  "this is initial commit"
+
+git log              "sare commit show kr deta hai"
+git log --oneline     "same kam karta hai"
+
+rm -rf .git                       "delete git repositary"
+
+git clone url                    "sari ki sari repository aa jaiyegi apke computer mein"                              
+
+.gitignore file banani hai jisme hum ignore karni vali file rakhenge    
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+git checkout <no jo git log karne se aata ha> <filename>
+
+git checkout 900cfcf index.html   
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+git remote add origin <repository URL  fom git hub>  
+
+git push -u origin master
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+babbar video
+
+git diff                                            (batayega kha pr kya kya changes kiye ha)
+git log -5                                          (last ke 5 commit dikh jayenge)
+git show <hash_id>                                  (particular id mein kya change hue ha)
+git branch                                          (current branch bta dega)
+git branch <branch_name>                            (new branch bn jayegi)(head master branch pr hi raheyga)
+git checkout -b <new_branch_name>                   (new branch nikalni ho to)(check karna hai to (git branch) karo)(head new branch pr aa jayega)
+git checkout master                                 (master branch mein aa jaunga)
+git checkout <branchname>                           (hum us branch pr aa jayenge)
+git branch -d <branch_name>                         (vo branch delete ho jayegi)(delete karne ke liye hume phele master branch mein aana padega)
+
+
+=================================================================================================================================================================================
+youtube
+
+git rm --cached <file_name>    (agar kooi file staging area se vapis lani  hai kuch change karne ke liye) 
+git commit -am   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vs code shortcut commands:
+ctrl+g =  (line number pr jane ke liye)
+ctrl+p = (files search karne ke liye)
+alt +z = ( auto screen karne ke liye)
+ctrl+ f = (kuch find karne ke liye)
+(ctrl + ` ) =  terminal open karne ke liye
+click + scroll + shift = ( select karne ke liye)
+alt+tab = tab change karne ke liye

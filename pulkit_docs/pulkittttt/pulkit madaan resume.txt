@@ -1,0 +1,75 @@
+Professional Goals
+
+To succeed in an environment of growth and excellence and earn
+a job which provides me job Satisfaction and self development and
+help me achieve personal as well as organization goals.
+
+ABOUT ME
+
+My career objective is to secure a position where I can efficiently contibute
+my skills and abilities to the growth of the organization and build a professional career.
+
+
+LANGUAGES AND FRAMEWORKS:
+Python
+Mysql
+Django
+Html
+Css
+Bootstrap
+Javascript(basics)
+
+
+
+SUPPORTING TECHNOLOGIES:
+Postman
+Vscode
+Git
+Heroku
+
+
+Other Interests
+-Travelling
+-Trekking
+-Photography
+
+
+INTERPERSONAL SKILLS
+Ability to communicate with people in a confident way.
+Ability to work in a team and set up trust.
+Ability to handle the problems with positive attitude in less time
+Good presentation skills.
+
+
+
+
+PROJECTS:
+Weather App 
+This is a website in which user enters the location and this will 
+return the weather details of that location like temperature, precipitation visibility,
+wind speed probability, condition and cloud coverage. Whole data is fetched from MapBox 
+API and DarkSky API 
+Technologies Used :- Django, MppBox API, Darksky API 
+
+SMART CALCULATOR
+The project deals with the development of application that is programed in such manner
+to calculate aithmatic calculation in easiest and fastest way thatconsist of some great
+shortcut.
+Technologies Used: Python
+
+HITECH-KITCHEN
+This is a small order management system in which User can make an order from the menu,
+which includes Item-name Price and the description of the items.
+When order is placed by user then it will be displayed in the kitchen and menu is
+send back to the user so that he/she can add more items.
+Technologies Used: Python, Djnago, HTML, CSS, BOOTSTRAP
+rm
+
+EXPERIENCE:
+06-01-2020 to 04-04-2020 
+Backend Developer Intern (Django) 
+Ajenotech,Mohali
+
+Worked on a live project "Mleap" Which shows the property/land is available or not in particular area.
+In this project I performed CRUD opertaion and design models for database in Mysql.
+
